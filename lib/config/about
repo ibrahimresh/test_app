@@ -1,0 +1,8 @@
+
+config/ (App Settings & Environment-Specific Configurations)
+
+Contains configurations that can change per environment (e.g., API URLs, feature flags).
+
+Includes dependency injection setup, routing, themes.
+
+Manages app-wide setup that affects how the app behaves.

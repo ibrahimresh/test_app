@@ -1,0 +1,8 @@
+
+core (Global Utilities & Business Logic Helpers)
+
+Contains global app-wide logic that does not depend on features.
+
+Includes error handling, networking, shared use cases, and helpers.
+
+Typically, does not change frequently per environment (e.g., dev, staging, prod).
